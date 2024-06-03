@@ -1,0 +1,39 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/drawable/edit_text_box.xml" value="0.196" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/drawable/ic_baseline_filter.xml" value="0.196" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/drawable/ic_baseline_get_app_24.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/drawable/ic_baseline_list_.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/drawable/ic_baseline_move_to_inbox_24.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/drawable/ic_baseline_publish_24.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/drawable/ic_help.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/activity_file_upload.xml" value="0.22" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/activity_navigation.xml" value="0.22" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/activity_show_consumer.xml" value="0.22" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/activity_splash.xml" value="0.2453125" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/ediittext.xml" value="0.25" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/export_data_activity.xml" value="0.24739583333333334" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/layout/list_item_consumer.xml" value="0.25" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/menu/menu.xml" value="0.24739583333333334" />
+        <entry key="..\:/android/AndroidStudioProjects/UGVCLRecovery/app/src/main/res/xml/file_paths.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

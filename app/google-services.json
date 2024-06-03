@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32440458656",
+    "project_id": "vij-bill-recovery",
+    "storage_bucket": "vij-bill-recovery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32440458656:android:f8ac522d4d6d59ee37d8c5",
+        "android_client_info": {
+          "package_name": "com.bytecodesolutions.ugvclrecovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32440458656-abtloqqo0rkerv4kbr7dk3l7mkf7gkl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FTVq-lKzc-HI6CyYXKVFL3KqsA_8Qyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32440458656-abtloqqo0rkerv4kbr7dk3l7mkf7gkl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
